@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Artikel</title>
+	<link rel="stylesheet" type="text/css" href="Tugas 4.css">
+</head>
+<body>
+	<div id="header">
+		<img src="kantor-bupati-buol.jpg" width="700" height="150">
+	</div>
+	<div id="menu">
+		<ul>
+			<li><a href>Home</a></li>
+			<li><a href>Blog</a></li>
+			<li><a href>Kontak</a></li>
+			<li><a href>Mengenai</a></li>
+		</ul>
+	</div>
+	<div id="teks">
+		<marquee scrolldelay="100" onmouseover="this.stop()" onmouseout="this.start()" style="font-size: 18px">Kunjungi Kabupaten Buol</marquee>
+	</div>
+	<div id="Container">
+		<h3>Potensi Cagar Kabupaten Buol</h3>
+		<img src="R86_8195.jpg" height="200" width="200" align="left">
+		<p>
+			Tim Pendataan Balai Pelestarian Cagar Budaya (BPCB) Gorontalo melakukan pendataan terhadap potensi cagar budaya di Kabupaten Buol, Sulawesi Tengah. Dalam kegiatan pendataan tersebut terhimpun potensi situs, bangunan, struktur, maupun benda yang diduga sebagai cagar budaya.  Salah satu bangunan yang diduga kuat merupakan cagar budaya adalah bangunan Rumah Belanda yang terdapat di Desa Lintidu, Kecamatan Paleleh. Bangunan ini merupakan rumah salah seorang Controlieur yang bernama dr. H. Sieber yang ditempatkan oleh Pemerintah Hindia Belanda di Buol pada tahun 1986. Setahun  kemudian rumah ini dibangun pada tahun 1897. Rumah ini berfungsi sebagai tempat tinggal controlieur  dan sebagai kantor untuk mengawasi para pekerja tambang emas yang ada di Desa Lintidu saat itu.
+		</p>
+		<img src="R86_8180-300x199.jpg" height="150" width="200" align="right">
+		<p>
+			Arsitektur rumah ini bergaya Eropa dengan kontruksi rangka besi/baja hampir di seluruh bagian bangunan rumah. Bangunannya berbentuk rumah panggung dengan umpak yang berjumlah 59 buah dengan tinggi umpak 1,7 m dan leber 68 cm. Terdapat 7 ruangan dalam bangunan rumah dengan luas keseluruhan bangunan 288 m². Kondisi rumah nampak tidak terawat, dan terlihat rimbunan tumbuhan dan pohon yang hampir menutupi seluruh bagian rumah, sehingga lambat laun akan menimbulkan kerusakan bahkan ancaman kemusnahan.
+		</p>
+		<img src="R86_8165-300x199.jpg" height="150" width="200" align="left">
+		<p>
+			Latar sejarah rumah saat ini masih ditelusuri lebih dalam, untuk memperoleh kriteria cagar budaya yang nantinya dapat diusulkan sebagai cagar budaya dengan memiliki kekuatan hukum tetap. Hasil kriteria cagar budaya pun dapat menjadi rekomendasi bagi Pemerintah Kabupaten Buol untuk melestarikan bangunan tersebut agar tidak dihancurkan oleh pemilik lahan. (Fitra)
+		</p>
+	</div>
+	<div id="Footer">
+		<span class="Footer">copyright &copy; 2017. <a href="https://kebudayaan.kemdikbud.go.id/bpcbgorontalo/pendataan-potensi-cagar-budaya-kabupaten-buol-sulawesi-tengah/">Faiz</a></span>
+	</div>
+</body>
+</html>
