@@ -1,0 +1,91 @@
+body{
+	font: arial;
+	background: white
+}
+h2{
+	font: georgia;
+	font-size: 30px;
+	font-style: : italic;
+	text-align: center;
+	padding-top: 50px;
+	height:150px;
+}
+#a {
+	text-decoration: none;
+}
+#header{
+	background-color: green;
+	width: 700px;
+	height: 150px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#menu{
+	width: 700px;
+	height: 50px;
+	background: #8c8c8c;
+	margin: auto;
+}
+#menu ul{
+	padding: 0;
+	margin: 0;
+}
+#menu ul li{
+	display: inline;
+	margin-left: 10px;
+	line-height: 50px;
+	font-size: 20px;
+	border: 1px solid #eee;
+	padding: 5px 15px;
+	border-radius: 10px;
+	background: #304000;
+}
+#menu ul li:hover{
+	background:#8c8c00;
+}
+#menu ul li a{
+	color: #fff;
+}
+#teks{
+	background: #dcdcdc;
+	height: 20px;
+	width: 700px;
+	overflow: hidden;
+	margin: auto;
+}
+#Container{
+	width: 700px;
+	border: 1px;
+	border-style: solid grey;
+	padding-top: 25px;
+	padding-left: 25px;
+	padding-bottom: 25px;
+	padding-right: 25px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+p {
+	margin-top: 0;
+	text-align: justify;
+}
+#Footer{
+	background-color: black;
+	color: white;
+	width: 700px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.Footer{
+	display: block;
+	text-align: center;
+	width: 700px;
+	height: 40px;
+	margin-top: 0px;
+	padding-bottom: 0px;
+}
